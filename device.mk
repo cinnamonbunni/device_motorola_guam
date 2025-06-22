@@ -39,8 +39,11 @@ $(call soong_config_set,livedisplay_sysfs,enable_ab,true)
 # Overlay
 PRODUCT_PACKAGES += \
     FrameworksResDevice \
+    FrameworksResDeviceXT2081-4 \
     LineagePlatformDevice \
-    SystemUIResDevice
+    SystemUIResDevice \
+    WifiResDevice \
+    WifiResDeviceXT2081-4
 
 # Properties
 PRODUCT_PACKAGES += \
