@@ -42,7 +42,7 @@ vendor/lib64/camera/components/com.qti.hvx.addconstant.so|940b743d2794b151c6faf5
 vendor/lib64/camera/components/com.qti.hvx.binning.so|f93a0cac5d8581ed069a48a4fbd36728b99f2d9e
 vendor/lib64/camera/components/com.qti.node.customhwnode.so|21e7b5e45d5f04e02edd44156b5c2a84b5795bb2
 vendor/lib64/camera/components/com.qti.node.depth.so|99f376bb8ae16e1149edc4ca43035e57a6becae4
-vendor/lib64/camera/components/com.qti.node.dewarp.so|f89cbcc41c68db99ab0df0756313e59358354798
+vendor/lib64/camera/components/com.qti.node.dewarp.so|f89cbcc41c68db99ab0df0756313e59358354798|b22decbe38d0ec8a9eb8721298f8aea1f3643509
 vendor/lib64/camera/components/com.qti.node.dummyrtb.so|e4728d5ce575076206b9e96e71f30dcf8095bf30
 vendor/lib64/camera/components/com.qti.node.dummysat.so|1a811c36b889818dad15fe748e5d105f7e87a69d
 vendor/lib64/camera/components/com.qti.node.eisv2.so|3f3120a1714005ad347e80f5dcbe492dfdde39b2
@@ -76,7 +76,7 @@ vendor/lib64/camera/components/com.qtistatic.stats.aec.so|8bb55442321716b186e8cb
 vendor/lib64/camera/components/com.qtistatic.stats.af.so|c861d2e3ee47412a984aa82d9e74e7e13883adfb
 vendor/lib64/camera/components/com.qtistatic.stats.awb.so|7b4aa9630ac7303497189774eb45f633908af83e
 vendor/lib64/camera/components/com.qtistatic.stats.pdlib.so|790bf2948c9a50b6408cb87a4cc35dd9f8883713
-vendor/lib64/camera/components/com.vidhance.node.processing.so|8a8cc112be34d48f4547c86f3ed4b08d9453d065
+vendor/lib64/camera/components/com.vidhance.node.processing.so|8a8cc112be34d48f4547c86f3ed4b08d9453d065|37a979f8411d382db78f98c7b5339b99578dec03
 vendor/lib64/camera/components/com.vidhance.stats.aec_dmbr.so|ddeaa402cc54a8680160b640da115d06352b625a
 vendor/lib64/camera/fdconfigpreview.bin|296e62a60a81aa7ba153e6d4fd4af34d1b2a4c8b
 vendor/lib64/camera/fdconfigpreviewlite.bin|296e62a60a81aa7ba153e6d4fd4af34d1b2a4c8b
