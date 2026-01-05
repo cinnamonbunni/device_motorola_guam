@@ -119,7 +119,6 @@ vendor/lib64/libcom.qti.chinodeutils.so|603d4f58215e148815b16e16bf0e35a89833748b
 vendor/lib64/libfcell.so|65ce523befbed9c84d4360dd7f6b46fbe7225d41
 vendor/lib64/libipebpsstriping.so|84d60675adfeb9c444a65f4753cb53893c8da109
 vendor/lib64/libjpege.so|2c075aec3b05a4fbd0016b9a290308f23352d7f8
-vendor/lib64/liblmutils-ns.so|b73bb721ac9886122b2a0e995f1c938787527cc6
 vendor/lib64/libmctfengine_stub.so|5c2ce97c8d77b853d7be9eaee398b6389168c01e
 vendor/lib64/libmmcamera_cac3.so|5eb2fa6ba5a67080caaf374e37c5da0a590e4f27
 vendor/lib64/libmmcamera_faceproc.so|9f12fe5b6671fbf4183051e201bda21ed7dc5dbe
