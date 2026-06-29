@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_guam.mk
+    $(LOCAL_DIR)/halcyon_guam.mk
